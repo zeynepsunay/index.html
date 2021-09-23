@@ -1,2 +1,1 @@
-# index.html
-Patika.dev ödevi
+#index.html
