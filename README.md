@@ -1,1 +1,1 @@
-#Zeynep Sunay hakkında bilgi
+Zeynep Sunay hakkında bilgi
